@@ -1,4 +1,4 @@
-package ir.shiveh.addmarker;
+package ir.shiveh.android_java_addMarker;
 
 import android.app.Application;
 
