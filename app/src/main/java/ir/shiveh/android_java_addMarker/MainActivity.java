@@ -58,6 +58,8 @@ public class MainActivity extends AppCompatActivity {
                 .snippet(snippet)
                 .icon(icon)
         );
+
+        myMarker.showInfoWindow(map, mapView);
     }
 
     private void removeMarker() {
